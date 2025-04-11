@@ -17,7 +17,7 @@ Uses the Solana Swap api from [https://docs.solanatracker.io](https://docs.solan
 ## Installation
 
 ```bash
-git clone https://github.com/YZYLAB/solana-swap-python.git
+git clone https://github.com/aleyi05/solana-swap-python.git
 ```
 
 ## Demo
