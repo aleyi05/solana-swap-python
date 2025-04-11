@@ -99,4 +99,4 @@ We also provide our own hosted Jupiter Swap API with no rate limits and faster m
 We charge a 0.5% fee on each successful transaction
 .
 Using this for a public bot or site with a high processing volume? 
-Contact us via Discord or email (solanatracker@yzylab.com) and get the fee reduced to 0.1% (only if accepted.)
+Contact us via Discord or email (hideoyamamoto0418@gmail.com) and get the fee reduced to 0.1% (only if accepted.)
